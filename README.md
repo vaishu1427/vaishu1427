@@ -1,3 +1,6 @@
+<img src="./Intro.gif" width=100%>
+
+
 # 💫 About Me:
 A self motivated individual with the knowledge of languages and development tools and yet seeking the evolution to update myself so I can use my skills to the advantage of the company while having the scope to develop my own skills.
 
