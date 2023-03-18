@@ -1,4 +1,4 @@
-<img src="./Intro.gif" width=100% height="250px">
+<img src="./Intro.gif" width=100%>
 
 
 # 💫 About Me:
