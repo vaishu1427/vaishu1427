@@ -20,11 +20,3 @@ A self motivated individual with the knowledge of languages and development tool
 ![](https://raw.githubusercontent.com/vaishu1427/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/vaishu1427/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=vaishu1427&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
